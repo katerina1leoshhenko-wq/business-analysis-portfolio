@@ -20,5 +20,4 @@ Regulatory text often mixes roles, activities, conditions, documents, and contro
 
 The case demonstrates a repeatable approach for transforming regulatory process descriptions into structured process models suitable for discussion, validation, and later digital implementation.
 
-Full materials: [BA_case_02](https://github.com/katerina1leoshhenko-wq/BA_case_02)
-
+Detailed BPMN diagrams, PlantUML views, and source artifacts are available upon request.

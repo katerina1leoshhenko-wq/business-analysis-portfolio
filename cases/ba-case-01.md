@@ -25,4 +25,4 @@ The AS-IS process created delays and control risks:
 
 The TO-BE model shows how the process can move from manual document logistics to traceable digital workflow while preserving business responsibilities and auditable handover points.
 
-Full materials: [BA_case_01](https://github.com/katerina1leoshhenko-wq/BA_case_01)
+Detailed BPMN diagrams and source artifacts are available upon request.

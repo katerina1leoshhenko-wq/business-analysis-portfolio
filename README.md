@@ -12,7 +12,7 @@ Analysis of a construction documentation handover process in road infrastructure
 
 **Demonstrates:** AS-IS discovery, bottleneck analysis, TO-BE process design, BPMN 2.0 modelling, and requirements analysis.
 
-Full materials: [BA_case_01](https://github.com/katerina1leoshhenko-wq/BA_case_01)
+Detailed BPMN diagrams and source artifacts are available upon request.
 
 ### BA Case 02: Regulatory Text to BPMN 2.0 Process Model
 
@@ -20,7 +20,7 @@ Formalization of a regulatory process from semi-structured text into BPMN 2.0 an
 
 **Demonstrates:** regulatory analysis, AI-assisted extraction, analyst validation, BPMN semantics, and decomposition of complex documentation flows.
 
-Full materials: [BA_case_02](https://github.com/katerina1leoshhenko-wq/BA_case_02)
+Detailed BPMN diagrams, PlantUML views, and source artifacts are available upon request.
 
 ### BPMN Grid Layout Kit
 
