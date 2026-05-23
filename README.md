@@ -47,8 +47,6 @@ If you are a recruiter, hiring manager, or team lead and would like to review de
 
 Detailed BPMN diagrams and source artifacts can be shared selectively upon request.
 
-Direct email: [katerina1leoshhenko@gmail.com](mailto:katerina1leoshhenko@gmail.com)
-
 ## Notes
 
 The cases are portfolio artifacts. They are anonymized or based on public/regulatory material where applicable, and they are presented to demonstrate analysis approach, modelling quality, and communication style rather than production implementation details.
