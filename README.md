@@ -39,6 +39,14 @@ Full project: [bpmn-grid-layout](https://github.com/katerina1leoshhenko-wq/bpmn-
 - AI-assisted analysis with human validation.
 - Clear documentation for technical and non-technical stakeholders.
 
+## Contact
+
+If you are a recruiter, hiring manager, or team lead and would like to review detailed case materials, please contact me by email:
+
+[Request detailed portfolio materials](mailto:katerina1leoshhenko@gmail.com?subject=Request%20for%20Business%20Analysis%20Portfolio%20Materials)
+
+Detailed BPMN diagrams and source artifacts can be shared selectively upon request.
+
 ## Notes
 
 The cases are portfolio artifacts. They are anonymized or based on public/regulatory material where applicable, and they are presented to demonstrate analysis approach, modelling quality, and communication style rather than production implementation details.
