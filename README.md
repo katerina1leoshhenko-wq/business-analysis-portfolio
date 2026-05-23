@@ -41,11 +41,13 @@ Full project: [bpmn-grid-layout](https://github.com/katerina1leoshhenko-wq/bpmn-
 
 ## Contact
 
-If you are a recruiter, hiring manager, or team lead and would like to review detailed case materials, please contact me by email:
+If you are a recruiter, hiring manager, or team lead and would like to review detailed case materials, please submit a short request:
 
-[Request detailed portfolio materials](mailto:katerina1leoshhenko@gmail.com?subject=Request%20for%20Business%20Analysis%20Portfolio%20Materials)
+[Request detailed portfolio materials](https://forms.gle/RfxCyDarYhxk2v4w9)
 
 Detailed BPMN diagrams and source artifacts can be shared selectively upon request.
+
+Direct email: [katerina1leoshhenko@gmail.com](mailto:katerina1leoshhenko@gmail.com)
 
 ## Notes
 
